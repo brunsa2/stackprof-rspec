@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2664774e-1889-4a0d-892a-a3de998c5c15" name="Default Changelist" comment="Hook implementation">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stackprof_rspec/rspec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stackprof_rspec/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stackprof-rspec.gemspec" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="RSpec Template" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1YDcdGJf9rwQveznsWJpP9YL2aM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultRubyCreateTestTemplate" value="RSpec Template" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/usr/local/node/v10.5.0/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/node/v10.5.0/bin/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.settings.patched" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/stackprof_rspec" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Stuff" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+      <module name="stackprof-rspec-test" />
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/stuff_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Stuff" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="RSpec.Stuff" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2664774e-1889-4a0d-892a-a3de998c5c15" name="Default Changelist" comment="" />
+      <created>1582480690638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582480690638</updated>
+      <workItem from="1582480692880" duration="11876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hook implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hook implementation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="180" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582489472934">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="180" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1582489472934" />
+    <state x="432" y="127" key="CommitChangelistDialog2" timestamp="1583611173548">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="432" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1583611173548" />
+    <state x="271" y="391" key="FileChooserDialogImpl" timestamp="1582489785458">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="271" y="391" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1582489785458" />
+    <state width="1638" height="107" key="GridCell.Tab.0.bottom" timestamp="1583611116965">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116965" />
+    <state width="1638" height="107" key="GridCell.Tab.0.center" timestamp="1583611116964">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116964" />
+    <state width="1638" height="107" key="GridCell.Tab.0.left" timestamp="1583611116963">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116963" />
+    <state width="1638" height="107" key="GridCell.Tab.0.right" timestamp="1583611116965">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116965" />
+    <state width="1638" height="107" key="GridCell.Tab.1.bottom" timestamp="1583611116968">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116968" />
+    <state width="1638" height="107" key="GridCell.Tab.1.center" timestamp="1583611116967">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116967" />
+    <state width="1638" height="107" key="GridCell.Tab.1.left" timestamp="1583611116966">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116966" />
+    <state width="1638" height="107" key="GridCell.Tab.1.right" timestamp="1583611116967">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116967" />
+    <state width="1638" height="107" key="GridCell.Tab.2.bottom" timestamp="1583611116970">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116970" />
+    <state width="1638" height="107" key="GridCell.Tab.2.center" timestamp="1583611116969">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116969" />
+    <state width="1638" height="107" key="GridCell.Tab.2.left" timestamp="1583611116968">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116968" />
+    <state width="1638" height="107" key="GridCell.Tab.2.right" timestamp="1583611116969">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="107" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583611116969" />
+    <state x="2" y="164" key="SettingsEditor" timestamp="1582489789365">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582489789365" />
+    <state x="218" y="342" key="jetbrains.nodejs.interpreters-dialog" timestamp="1582489787093">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="218" y="342" key="jetbrains.nodejs.interpreters-dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582489787093" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/../stackprof-rspec-test/spec/stuff_spec.rb</url>
+          <line>13</line>
+          <properties myBlockOrdinal="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stackprof_rspec@Stuff.rcov" NAME="Stuff Coverage Results" MODIFIED="1583610618858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../stackprof-rspec-test" MODULE_NAME="stackprof-rspec-test" />
+  </component>
+</project>
